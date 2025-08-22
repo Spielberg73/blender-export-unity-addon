@@ -109,5 +109,3 @@ Submit a Pull Request
 License
 This addon is distributed under the MIT license. You are free to use, modify, and share it.
 
-📄 Licencia
-Este addon se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
